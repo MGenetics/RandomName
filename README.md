@@ -1,1 +1,1 @@
-<h1>Homework/Lab assignments are in the MGenetics-assignments branch</h1>
+<h1>Fortune favors the bold</h1>
